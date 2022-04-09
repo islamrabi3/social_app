@@ -1,6 +1,7 @@
 # social_app
 
-A new Flutter project.
+A new Flutter project. 
+- Using Dio, Firebase Service (Firebase Storage, FireBase Auth , Firebase Store  ), Dynamic UI and Bloc Pattern
 
 ## Getting Started
 
